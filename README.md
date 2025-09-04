@@ -1,2 +1,3 @@
 # PF-Lab-03-k252028
-My first repository
+I am a university student currently enrolled in FAST NUCES karachi
+
